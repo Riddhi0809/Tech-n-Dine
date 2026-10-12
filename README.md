@@ -5,7 +5,7 @@ A beginner-friendly React + Vite frontend and Node.js + Express backend for a re
 ## Project structure
 
 ```text
-saffron-silicon-web/
+tech-n-dine/
 ├── client/                 # React frontend
 │   ├── src/
 │   │   ├── components/     # Reusable interface components
