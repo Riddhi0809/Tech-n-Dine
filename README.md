@@ -1,4 +1,4 @@
-# Saffron & Silicon — AR Dine prototype
+# Tech-n-Dine — AR Dine prototype
 
 A beginner-friendly React + Vite frontend and Node.js + Express backend for a restaurant menu and table-ordering prototype.
 
